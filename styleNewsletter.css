@@ -1,0 +1,13 @@
+
+.novinky{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+p{
+    max-width: 400px;
+    padding: 1em;
+    margin: 1em;
+    background-color: aqua;
+}
